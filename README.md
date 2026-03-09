@@ -14,15 +14,15 @@ Projenin tüm arayüz tasarımlarına ve ekran görüntülerine depodaki [screen
 <br>
 
 <p align="center">
-  <img src="assets/screenshots/13.png" width="250" title="giriş sayfası">
+  <img src="assets/screenshots/13.jpg" width="250" title="giriş sayfası">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/1.png" width="250" title="Ana Sayfa">
+  <img src="assets/screenshots/1.jpg" width="250" title="Ana Sayfa">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/2.png" width="250" title="Ürün Detayı">
+  <img src="assets/screenshots/2.jpg" width="250" title="Ürün Detayı">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/4.png" width="250" title="Sepet sayfası">
+  <img src="assets/screenshots/4.jpg" width="250" title="Sepet sayfası">
    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/6.png" width="250" title="Profil">
+  <img src="assets/screenshots/6.jpg" width="250" title="Profil">
 </p>
 </p>
 
