@@ -7,6 +7,22 @@ Bu proje, mobil uygulama geliştirme süreçlerini uçtan uca öğrenmek ve mode
 
 ## 🚀 Projenin Amacı
 "Mini Katalog" konseptiyle tasarlanan bu uygulama, kullanıcıların ürünleri listeleyebildiği, detaylarını inceleyebildiği, sepet ve favori işlemlerini yönetebildiği dinamik bir yapı sunar. Proje kapsamında mobil programlama mimarisi, sayfa yönlendirmeleri ve veri yönetimi standartlara uygun olarak inşa edilmiştir.
+## 📸 Ekran Görüntüleri
+
+Projenin tüm arayüz tasarımlarına ve ekran görüntülerine depodaki [screenshots/](screenshots/) klasöründen ulaşabilirsiniz. Aşağıda uygulamanın temel akışını gösteren 3 ana ekran bulunmaktadır:
+
+<br>
+
+<p align="center">
+  <img src="screenshots/1.png" width="250" title="Ana Sayfa">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/2.png" width="250" title="Ürün Detayı">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/4.png" width="250" title="Sepet sayfası">
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/6.png" width="250" title="Profil">
+</p>
+</p>
 
 ## 🌟 Temel Özellikler
 * **Katalog Tasarımı:** `GridView` kullanılarak tasarlanmış şık ve duyarlı (responsive) ürün kartları.
