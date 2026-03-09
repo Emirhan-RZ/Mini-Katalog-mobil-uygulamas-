@@ -1,0 +1,22 @@
+[
+  { "id": 1, "ad": "Huawei D16 Laptop", "aciklama": "16 inç, i7 İşlemci, 16GB RAM. Yazılımcılar için özel üretim.", "fiyat": 32000.0, "kategori": "Teknoloji", "resimUrl": "assets/images/d16.png" },
+  { "id": 2, "ad": "iPhone 15 Pro Max", "aciklama": "256 GB, Titanyum Kasa, Uzay Siyahı", "fiyat": 75000.0, "kategori": "Teknoloji", "resimUrl": "assets/images/15pro.png" },
+  { "id": 3, "ad": "AirPods Pro 2", "aciklama": "Aktif Gürültü Engelleyici, MagSafe Şarj Kutusu", "fiyat": 8500.0, "kategori": "Teknoloji", "resimUrl": "assets/images/airpods.png" },
+  { "id": 4, "ad": "PlayStation 5 Slim", "aciklama": "1 TB SSD, Çift DualSense Kol Hediyeli", "fiyat": 28500.0, "kategori": "Teknoloji", "resimUrl": "assets/images/ps5.png" },
+  { "id": 5, "ad": "Asus TUF 27\" Monitör", "aciklama": "165Hz 1ms, IPS Panel, Espor Oyuncu Monitörü", "fiyat": 6500.0, "kategori": "Teknoloji", "resimUrl": "assets/images/asus.png" },
+  { "id": 6, "ad": "Logitech MX Master 3S", "aciklama": "Kablosuz Profesyonel İş ve Tasarım Faresi", "fiyat": 3800.0, "kategori": "Teknoloji", "resimUrl": "assets/images/logi.png" },
+  
+  { "id": 7, "ad": "Erkek Kışlık Mont", "aciklama": "Su geçirmez, içi kürklü siyah şişme mont.", "fiyat": 1850.0, "kategori": "Giyim", "resimUrl": "assets/images/mont.png" },
+  { "id": 8, "ad": "Nike Air Max 270", "aciklama": "Günlük kullanım ve koşu için rahat havalı taban.", "fiyat": 3400.0, "kategori": "Giyim", "resimUrl": "assets/images/air.png" },
+  { "id": 9, "ad": "Mavi Jeans Kot Pantolon", "aciklama": "Slim Fit, esnek kumaş, lacivert renk.", "fiyat": 950.0, "kategori": "Giyim", "resimUrl": "assets/images/kot.png" },
+  { "id": 10, "ad": "Deri Ceket", "aciklama": "%100 Hakiki deri, hakim yaka motosikletçi stili.", "fiyat": 4500.0, "kategori": "Giyim", "resimUrl": "assets/images/ceket.png" },
+  { "id": 11, "ad": "Ray-Ban Güneş Gözlüğü", "aciklama": "Polarize cam, klasik damla model.", "fiyat": 3200.0, "kategori": "Giyim", "resimUrl": "assets/images/ray.png" },
+  { "id": 12, "ad": "Puma Spor Çanta", "aciklama": "Geniş hacimli, su itici kumaş sırt çantası.", "fiyat": 850.0, "kategori": "Giyim", "resimUrl": "assets/images/puma.png" },
+
+  { "id": 13, "ad": "Modern L Koltuk", "aciklama": "Gri renkli, yatak olabilen, sandıklı köşe takımı.", "fiyat": 18000.0, "kategori": "Ev", "resimUrl": "assets/images/lkoltuk.png" },
+  { "id": 14, "ad": "IKEA Çalışma Masası", "aciklama": "120x60 ahşap yüzeyli, beyaz metal ayaklı geniş masa.", "fiyat": 2500.0, "kategori": "Ev", "resimUrl": "assets/images/ikea.png" },
+  { "id": 15, "ad": "Philips Filtre Kahve Makinesi", "aciklama": "Zamanlayıcılı, cam sürahili kahve makinesi.", "fiyat": 1950.0, "kategori": "Ev", "resimUrl": "assets/images/kahve.png" },
+  { "id": 16, "ad": "Kitaplık", "aciklama": "5 Raflı, metal iskeletli dekoratif kitaplık.", "fiyat": 1200.0, "kategori": "Ev", "resimUrl": "assets/images/kitap.png" },
+  { "id": 17, "ad": "Post Halı", "aciklama": "120x180 cm, yumuşak dokulu, yıkanabilir pelüş halı.", "fiyat": 800.0, "kategori": "Ev", "resimUrl": "assets/images/hali.png" },
+  { "id": 18, "ad": "Masa Lambası", "aciklama": "Dokunmatik, 3 farklı renk modu ve kısılabilir ışık.", "fiyat": 450.0, "kategori": "Ev", "resimUrl": "assets/images/lamba.png" }
+]
