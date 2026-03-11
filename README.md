@@ -37,8 +37,8 @@ Projenin tüm arayüz tasarımlarına ve ekran görüntülerine depodaki [screen
 ## 🛠️ Kullanılan Teknolojiler ve Mimari
 Hocalar ve danışmanlar tarafından beklenen temel mimari gereksinimler projeye başarıyla entegre edilmiştir:
 
-* **Framework:** Flutter
-* **Dil:** Dart
+* **Framework:** Flutter (Sürüm: 3.41.0 - Stable Channel)
+* **Dil:** Dart (Sürüm: 3.11.0)
 * **Navigasyon (Routing):** Sayfalar arası geçişlerde spagetti koddan kaçınılarak **Named Routes** (`Navigator.pushNamed`) kullanılmış; sayfalar arası veri aktarımı ise profesyonel standart olan **Route Arguments** ile sağlanmıştır.
 * **Asset Yönetimi:** Ürün verileri kodların içine gömülmek yerine, `assets/data/urunler.json` dosyasından asenkron (Future/async) olarak parse edilerek çekilmiştir. Görseller lokal `assets/images/` klasöründen yönetilmektedir.
 * **Durum Yönetimi (State Management):** Sayfa içi anlık güncellemeler için `StatefulWidget` ve `setState` kullanılmış, proje geneli (sepet, favoriler, adresler) global veri modelleri üzerinden haberleştirilmiştir.
